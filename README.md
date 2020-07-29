@@ -23,7 +23,17 @@ pkg install unzip
 ------------------------
 pkg install openssh-server
 -------------------------
-mkdir -p ~/jails/ubuntu
+mkdir -p ~/nexphisher/red-virous-tool
+https://github.com/RED-VIROUS7/REDVIROUS-TOOL
+
+
+
+
+
+
+
+
+
 
 
 
