@@ -23,5 +23,9 @@ pkg install unzip
 ------------------------
 pkg install openssh-server
 -------------------------
-git clone 
+mkdir -p ~/jails/ubuntu
+
+
+
+
 
